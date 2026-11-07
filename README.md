@@ -18,24 +18,5 @@ Aplikasi ini memiliki fitur CRUD (Create, Read, Update, Delete):
 - GoRouter (Navigation)
 - REST API (Backend)
 
-## Cara Menjalankan Aplikasi
-
-1. Clone repository:
-   ```bash
-   git clone https://github.com/erlanggatryand/Praktikum_PPB3.git
-   ```
-2. Masuk ke folder project:
-   ```bash
-   cd Praktikum_PPB3
-   ```
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Jalankan aplikasi:
-   ```bash
-   flutter run
-   ```
-
 ## Repository
 https://github.com/erlanggatryand/Praktikum_PPB3
